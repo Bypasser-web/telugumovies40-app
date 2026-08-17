@@ -1,0 +1,13 @@
+{
+  "name": "telugumovies40-link-protector",
+  "version": "1.0.0",
+  "description": "Telugumovies40 Web Admin & Anti-Bypass Verification Engine",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0"
+  }
+}
